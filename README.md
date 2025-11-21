@@ -15,20 +15,10 @@ This project is a static Amazon-style homepage clone built with HTML and CSS. It
 - Footer with company info, links, logo, and copyright.
 
 
-📂 Project Structure
-├── index.html        # Main HTML file
-├── style.css         # Stylesheet
-└── images/           # Image assets (logo, categories, hero banner)
-
-
-
-🛠️ Installation & Usage
-
-- Clone the repository:
-git clone https://github.com/your-username/amazon-clone.git
-- Navigate into the project folder:
-cd amazon-clone
-- Open index.html in your browser to view the homepage.
+📂 Project Structure  <br>
+├── index.html        # Main HTML file <br>
+├── style.css         # Stylesheet  <br>
+└── images/           # Image assets (logo, categories, hero banner)  <br>
 
 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eedb98cd-9b90-4a35-8f33-a9a6aaf3aee0" margin="0px" padding ="0px" />
